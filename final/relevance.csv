@@ -1,0 +1,108 @@
+,Title,Evaluat_Relev,Traffic_Relev,Ctrl_Relev,Topo_Relev,Relevance
+0,Node to Node Performance Evaluation through RyuSDN Controller,1,1.5,0,1.0,0.9
+1,SDN Controllers: A Comprehensive Analysis and Performance Evaluation Study,1,1.5,3,2.3333333333333335,1.7666666666666668
+2,Evaluation and comparison of OpenDayLight and open networking operating system in software-defined networking,1,2.0,1,1.0,1.2
+3,Performance Evaluation Using RyuSDN Controller in Software-Defined Networking Environment,1,1.0,0,1.0,0.8
+4,Performance comparison of SDN OpenFlow controllers,1,1.0,3,1.0,1.4
+5,Controller selection in software defined networks using best-worst multi-criteria decision-making,1,1.0,3,1.6666666666666667,1.5333333333333334
+6,Detection and Analysis of TCP-SYN DDoS Attack in Software-Defined Networking,1,1.0,0,1.0,0.8
+7,Performance Analysis of Various SDN Controllers in Mininet Emulator,1,1.0,3,3.0,1.8
+8,Performance Analysis of Floodlight and RyuSDN Controllers under Mininet Simulator,1,1.0,1,3.0,1.4
+9,A Comparative Performance Analysis of Stellar SDN Controllers using Emulators,1,1.5,3,2.3333333333333335,1.7666666666666668
+10,OpenFlow data planes performance evaluation,1,1.5,1,1.6666666666666667,1.2333333333333334
+11,Detection of DDoS Attacks in Software Defined Networking Using Entropy,1,1.0,0,1.0,0.8
+12,Security analysis of SDN controller-based DHCP services and attack mitigation with DHCPguard,1,1.0,2,2.6666666666666665,1.5333333333333332
+13,SDN Mininet Emulator Benchmarking and Result Analysis,1,1.5,0,1.0,0.9
+14,Performance Evaluation of QoS metrics in Software Defined Networking using RyuController,1,1.5,0,1.0,0.9
+15,Performance Comparison of Software-Defined Network Controllers,1,1.5,3,2.6666666666666665,1.8333333333333333
+16,Practical Implications of Using Dockers on Virtualized SDN,1,1.5,0,1.0,0.9
+17,Experimental Security Analysis of SDN Network by Using Packet Sniffing and Spoofing Technique on POX and RyuController,1,1.5,1,1.0,1.1
+18,Experimental comparison and evaluation of various OpenFlow software defined networking controllers,1,1.0,3,3.0,1.8
+19,Performance analysis of software defined network using intent monitor and reroute method on ONOS controller,1,1.0,0,1.6666666666666667,0.9333333333333333
+20,Experimenting and evaluating the impact of DoS attacks on different SDN controllers,1,1.0,2,1.0,1.2
+21,Performance Analysis of Ryu-POX Controller in Different Tree-Based SDN Topologies,1,1.0,1,2.6666666666666665,1.3333333333333333
+22,Benchmarking of mainstream SDN controllers over open off‐the‐shelf software‐switches,1,1.0,2,1.6666666666666667,1.3333333333333335
+23,Performance Analysis and Evaluation of Software Defined Networking Controllers against Denial of Service Attacks,1,1.5,2,1.0,1.3
+24,Performance evaluation of Software-Defined Network (SDN) controllers using Dijkstra’s algorithm,1,1.5,1,1.0,1.1
+25,A Novel Scheme for Controller Selection in Software-Defined Internet-of-Things (SD-IoT),1,1.0,3,1.6666666666666667,1.5333333333333334
+26,Security and Performance Evaluation of Software Defined Network Controllers Against Distributed Denial of Service Attack,1,1.0,3,1.0,1.4
+27,Generic Method for SDN Controller Selection Using AHP and TOPSIS Methods,1,1.0,3,2.6666666666666665,1.7333333333333332
+28,Efficient measurement of round-trip link delays in software-defined networks,3,1.0,0,1.0,1.6
+29,Software Defined Network based Load Balancing for Network Performance Evaluation,1,1.5,0,1.6666666666666667,1.0333333333333334
+30,Performance Evaluation of SDN DDoS Attack Detection and Mitigation Based Random Forest and K-Nearest Neighbors Machine Learning Algorithms,1,1.0,0,2.0,1.0
+31,Load and stress testing for SDN’s northbound API,1,1.0,3,1.0,1.4
+32,Scalability Analysis in Mininet on Software Defined Network using ONOS,1,1.5,0,2.6666666666666665,1.2333333333333332
+33,Performance Evaluation of Stateful Firewall-Enabled SDN with Flow-Based Scheduling for Distributed Controllers,1,2.5,0,2.3333333333333335,1.3666666666666667
+34,Analysis of Availability Model Based on Software Aging in SDN Controllers with Rejuvenation,1,1.0,0,1.0,0.8
+35,Evaluation of Four SDN Controllers with Firewall Modules,1,2.0,3,1.0,1.6
+36,Routing Performance Evaluation of a Multi-Domain Hybrid SDN for Its Implementation in Carrier Grade ISP Networks,1,2.0,0,1.0,1.0
+37,SDNTruth: Innovative DDoS Detection Scheme for Software-Defined Networks (SDN),1,1.0,0,1.0,0.8
+38,An Analysis of Hierarchical Software-Defined Network Control Plane: A Reliability Approach,1,1.0,0,1.0,0.8
+39,Simulative Evaluation of KPIs in SDN for Topology Classification and Performance Prediction Models,1,1.0,1,2.0,1.2
+40,Extensive performance analysis of OpenDayLight (ODL) and Open Network Operating System (ONOS) SDN controllers,1,2.0,1,1.0,1.2
+41,Evaluation of TCP and UDP Traffic over Software-Defined Networking,1,1.5,0,2.3333333333333335,1.1666666666666667
+42,Validation of Distributed SDN Control Plane Under Uncertain Failures,3,1.0,0,2.0,1.8
+43,Evaluating and Comparing the Performance of Using Multiple Controllers in Software Defined Networks,1,2.0,3,1.6666666666666667,1.7333333333333332
+44,Topology Discovery Performance Evaluation of OpenDaylight and ONOS Controllers,1,1.5,1,1.6666666666666667,1.2333333333333334
+45,An Experimental Evaluation of Flow Setup Latency in Distributed Software Defined Networks,1,1.0,3,1.0,1.4
+46,Feature Based Comparison and Selection of SDN Controller,1,1.0,3,1.0,1.4
+47,SDN Controllers Scalability and Performance Study,1,1.0,3,2.3333333333333335,1.6666666666666667
+48,On the Impact of the Network Hypervisor on Virtual Network Performance,1,1.0,0,1.6666666666666667,0.9333333333333333
+49,Evaluating QoS in SDN-Based EPC: A Comparative Analysis,1,1.5,0,1.6666666666666667,1.0333333333333334
+50,ARP-P4: deep analysis of a hybrid SDN ARP-Path/P4Runtime switch,1,1.0,0,1.6666666666666667,0.9333333333333333
+51,Security Evaluation Methodology for Software Defined Network Solutions,1,1.0,3,1.0,1.4
+52,Performance Evaluation of SDN Controllers in Ofnet Emulation Environment,1,1.0,1,1.0,1.0
+53,On Studying of Scalability in Single-Controller Software-Defined Networks,1,1.0,1,1.6666666666666667,1.1333333333333333
+54,Performance analysis of Software Defined Network (SDN) in link failure scenario,1,1.0,0,2.3333333333333335,1.0666666666666669
+55,Approach of Performance Analysis for Controllers of Software Defined Networking,1,1.5,2,2.3333333333333335,1.5666666666666669
+56,Performance Analysis in Software Defined Network Controllers,1,1.0,3,2.3333333333333335,1.6666666666666667
+57,Performance Evaluation of Pox Controller for Software Defined Networks,1,1.0,0,1.0,0.8
+58,Resiliency Analysis of ONOS and Opendaylight SDN Controllers Against Switch and Link Failures,1,1.5,1,1.6666666666666667,1.2333333333333334
+59,Performance evaluation of software‐defined wide area network based on queueing theory,1,1.0,0,1.0,0.8
+60,An Approach for Managing Availability in Software Defined Network Infrastructure,1,1.0,0,1.6666666666666667,0.9333333333333333
+61,Performance Analysis of SDN controllers within an OpenStack infrastructure,1,1.0,1,2.6666666666666665,1.3333333333333333
+62,Performance evaluation of Ryucontroller under distributed denial of service attacks,1,1.5,0,1.0,0.9
+63,A Comparative and Analytical Study for Choosing the Best Suited SDN Network Operating System for Cloud Data Center,1,1.0,3,1.0,1.4
+64,Evaluation of the robustness of SDN controllers ONOS and ODL,1,1.5,1,1.0,1.1
+65,A comparative study for bandwidth on demand using ONOS reactive and intent forwarding,1,1.0,0,1.3333333333333333,0.8666666666666666
+66,Performance Evaluation of SDN Architecture Through D-ITG Platform for Distributed Controller over Single Controller,1,1.0,0,1.6666666666666667,0.9333333333333333
+67,DDoS attack mitigation using entropy in SDN-IoT environment,1,1.0,1,1.0,1.0
+68,Implementation and Performance Evaluation of Load Balanced Routing in SDN based Fat Tree Data Center,1,1.0,0,1.0,0.8
+69,A Testbed for the Evaluation of Denial of Service Attacks in Software-Defined Networks,1,1.0,0,1.0,0.8
+70,Detection and mitigation of DoS attacks in SDN. An experimental approach,1,3.0,0,1.0,1.2
+71,Software Defined Networks Security: Link Failure Analysis in SDN,1,1.0,0,1.6666666666666667,0.9333333333333333
+72,Performance Analysis of POX and RyuController on Software Defined Network with Spanning Tree Protocol,1,1.0,1,1.0,1.0
+73,An Approach for Software-Defined Networks Security,1,1.5,0,1.0,0.9
+74,Software-Defined Networking: The Impact of Scalability on Controller Performance,1,1.5,0,2.3333333333333335,1.1666666666666667
+75,The Performance Analysis of Hybrid SDN–IP Reactive Routing on ONOS Controller in Tree Topologies,1,1.0,0,1.0,0.8
+76,Performance Evaluation of Software-Defined Networking Implemented on Various Network Topologies,1,1.0,0,3.0,1.2
+77,Evaluating the Energy Efficiency of Software Defined Networking Controllers for Different Topologies,1,1.0,3,2.3333333333333335,1.6666666666666667
+78,FAEController: A Relative Efficiency Evaluation Framework of SDN Controllers,1,1.0,3,1.0,1.4
+79,Modeling the Software Dependability For a SDN/NFV Controller,1,1.0,0,1.0,0.8
+80,Network parameters effects on system resources in software defined networks,1,1.0,3,2.3333333333333335,1.6666666666666667
+81,Toward Adaptive and Scalable Topology in Distributed SDN Controller,1,1.0,0,1.3333333333333333,0.8666666666666666
+82,Performance Modeling of Software-Defined Networking Paradigm in a Public Health Management System,1,1.0,0,1.0,0.8
+83,Performance Analysis of Multipath Deployment in Software-Defined Wide Area Network (SDWAN),1,1.0,0,1.0,0.8
+84,Performance Evaluation of Host Scalability in Software Defined Networks,1,1.5,0,1.6666666666666667,1.0333333333333334
+85,Performance Analysis for Load Balancing Algorithms using POX Controller in SDN,1,1.0,0,1.0,0.8
+86,ARES: A Framework for Management of Aging and Rejuvenation in Softwarized Networks,1,1.0,1,1.0,1.0
+87,Fully Integrated Software-Defined Networking (SDN) Testbed Using Open-Source Platforms,1,1.5,2,2.3333333333333335,1.5666666666666669
+88,"P4-HLDMC: A Novel Framework for DDoS and ARP Attack Detection and Mitigation in SD-IoT Networks Using Machine Learning,Stateful P4,and Distributed Multi-Controller Architecture",1,3.0,3,1.3333333333333333,1.8666666666666667
+89,DDoS Attack Detection and Classification Using Hybrid Model for Multicontroller SDN,1,1.5,0,1.0,0.9
+90,Implementation and Comparative Analysis of Static and Dynamic Load Balancing Algorithms in SDN,1,1.5,0,1.0,0.9
+91,Performance comparison of Ryuand floodlight SDN controller,1,1.5,1,3.0,1.5
+92,Performance Evaluation of Various Topological Software Defined Networks Using Mininet Simulator and Pox Controller,1,1.5,0,3.0,1.3
+93,Analysis of failover mechanism in SDN,1,1.0,2,1.0,1.2
+94,POX Controller Evaluation Based On Tree Topology For Data Centers,1,1.5,1,1.6666666666666667,1.2333333333333334
+95,Performance Assessments for SDN Control Plane into Distinct Network Topologies,1,1.0,0,2.0,1.0
+96,"On Profiling,Benchmarking and Behavioral Analysis of SDN Architecture Under DDoS Attacks",1,2.0,2,1.0,1.4
+97,Performance Analysis of SDN with a Hybrid Data Plane of MPLS and SDN,1,2.0,0,1.0,1.0
+98,SDN Application Backdoor: Disrupting the Service via Poisoning the Topology,1,1.5,0,1.0,0.9
+99,Empirical Performance Evaluation of Open Source SDN Controllers in different Network Topologies,1,1.5,2,2.3333333333333335,1.5666666666666669
+100,Hierarchical Classic Controllers (HCC) with an Enhanced SVM Method for DDoS Attack Detection in SDN,1,1.0,0,1.0,0.8
+101,SECURITY THREATS ON DATA-CONTROL PLANE COMMUNICATION CHANNEL IN SDN,1,1.0,0,1.0,0.8
+102,The performance effect due to varying network topologies on a software defined network employing the k-shortest path,1,1.5,0,1.0,0.9
+103,Performance Evaluation of SDN-Enabled Switching System For IoT Infrastructure,1,1.0,0,1.6666666666666667,0.9333333333333333
+104,QoS Performance of Software Define Network Using Open Network Operating System Controller,1,1.0,0,1.3333333333333333,0.8666666666666666
+105,Performance Assessment of QoS metrics in Software Defined Networking using Floodlight Controller,1,1.0,0,1.0,0.8
+106,P4RCProbe for Evaluating the Performance of P4Runtime-based Controllers,1,1.5,0,1.6666666666666667,1.0333333333333334

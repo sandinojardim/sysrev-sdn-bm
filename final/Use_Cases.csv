@@ -1,0 +1,6 @@
+UC,Topo_size,Topo_struct,Traffic_volume,Traffic_bhvr,Nodes_size,Main_service
+DC,2,Leaf-Spine;3-Tier;Tree;Fat-tree,3,Variable,3,;;;;;;;;;
+NV,0,Any,0,Variable,1,0;0;0;0;0;0;0;1;0
+SDW,3,Mesh,3,Variable,3,;;;;;;;;;
+IOT,3,Mesh;Star,1,Constant;Variable,3,;;;;;;;;;
+NT,0,Any,0,Constant,1,0;1;0;0;0;0;0;0;0
